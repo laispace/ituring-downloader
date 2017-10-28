@@ -1,16 +1,17 @@
 # ituring-downloader 图灵阅读书籍下载器
 
-![](https://raw.githubusercontent.com/laispace/puppeteer-explore/master/assets/download-ituring-books.png?raw=true)
+
+一键下载 [图灵阅读社区书架上](http://www.ituring.com.cn/user/shelf) 的书籍。
 
 ## 安装
 
 ```shell
 git clone https://github.com/laispace/ituring-downloader.git
+// 或者 
+// npm intall ituring-downloader
 
 cd ituring-downloader
 
-
-// 
 npm install
 
 ```
@@ -45,6 +46,10 @@ ibd MY_USERNAME MY_PASSWORD
 ```
 > 注意，该脚本是抓取指定账号在图灵社区购买的正版电子书，只能抓取已购买书籍，下载后仅供自己阅读，请勿肆意传播，否则后果自负！
 
-![](https://raw.githubusercontent.com/laispace/puppeteer-explore/master/assets/download-ituring-books-error.gif?raw=true)
+
+
+### 下载效果
+![](https://raw.githubusercontent.com/laispace/puppeteer-explore/master/assets/download-ituring-books.gif?raw=true)
+![](https://raw.githubusercontent.com/laispace/puppeteer-explore/master/assets/download-ituring-books.png?raw=true)
 
 
