@@ -1,0 +1,24 @@
+{
+  "name": "ituring-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "./bin/ibd.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laispace/ituring-downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laispace/ituring-downloader/issues"
+  },
+  "homepage": "https://github.com/laispace/ituring-downloader#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "puppeteer": "0.12.0"
+  }
+}
